@@ -1,1 +1,1 @@
-# flutter_exercises
+# Basic flutter exercises for beginners.
