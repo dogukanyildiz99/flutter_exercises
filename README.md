@@ -10,3 +10,6 @@
 
 ### counter.dart output
 <img src = "https://user-images.githubusercontent.com/56637126/199221494-c41c2df5-869e-4c31-be1d-783266df7f9c.png" alt = "counter" style = "width:250px;" />
+
+### image_widget_2.dart output
+<img src = "https://user-images.githubusercontent.com/56637126/199267912-3d941793-1081-470e-aae1-e1325578398e.png" alt = "image" style = "width:250px;" />
