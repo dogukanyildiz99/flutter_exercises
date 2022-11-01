@@ -7,3 +7,6 @@
 
 ### exercise_1.dart output
 <img src = "https://user-images.githubusercontent.com/56637126/199173702-0c9e0bbf-bfe5-46c7-9765-d38dd956698c.png" alt = "exercise_1" style = "width:250px;" />
+
+### counter.dart output
+<img src = "https://user-images.githubusercontent.com/56637126/199221494-c41c2df5-869e-4c31-be1d-783266df7f9c.png" alt = "counter" style = "width:250px;" />
