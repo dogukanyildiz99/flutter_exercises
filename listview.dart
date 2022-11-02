@@ -24,9 +24,7 @@ class ListViewUse extends StatelessWidget {
                 title: Text(stdnt.name),
                 subtitle: Text(stdnt.surname),
                 leading: CircleAvatar(
-                  child: Text(
-                    stdnt.id.toString(),
-                  ),
+                  child: Text(stdnt.id.toString()),
                 ),
               ),
             )
