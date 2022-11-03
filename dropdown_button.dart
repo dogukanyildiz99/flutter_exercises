@@ -54,9 +54,9 @@ class _DropDownButtonState extends State<DropDownButton> {
           DropdownButton<int>(
             items: _numbers
                 .map(
-                  (int citySelect) => DropdownMenuItem(
-                    value: citySelect,
-                    child: Text(citySelect.toString()),
+                  (int numSelect) => DropdownMenuItem(
+                    value: numSelect,
+                    child: Text(numSelect.toString()),
                   ),
                 )
                 .toList(),
