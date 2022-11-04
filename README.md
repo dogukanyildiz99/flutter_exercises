@@ -14,3 +14,6 @@
 
 ### listview.dart output
 <img src = "https://user-images.githubusercontent.com/56637126/199479300-c552a9a0-429b-410a-842c-8c56cbd56f60.png" alt = "list" style = "width:250px;" />
+
+### home_page.dart output
+<img src = "https://user-images.githubusercontent.com/56637126/199761358-0e945660-60b8-423e-a342-38af005f33ca.png" alt = "home layout" style = "width:250px;" />
