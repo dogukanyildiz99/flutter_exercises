@@ -46,22 +46,3 @@ class _MachineListState extends State<MachineList> {
     );
   }
 }
-
-// // Api api = Api();
-// //   @override
-// //   Widget build(BuildContext context) {
-// //     var machine = 'getMachine';
-// //     return Scaffold(
-//       body: ListView(
-//           children: allMachines
-//               .map(
-//                 (Machine machine) => ListTile(
-//                   title: Text(machine.machineId.toString()),
-//                   subtitle: Text(machine.machineName.toString()),
-//                   leading: Icon(Icons.move_to_inbox_outlined),
-//                 ),
-//               )
-//               .toList(),
-//           ),
-// //     );
-// //   }
